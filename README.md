@@ -26,7 +26,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/heat-wave-alert-system.git
+git clone https://github.com/Ashutoshjangam/task-2
 cd heat-wave-alert-system
 Create a virtual environment:
 
@@ -77,15 +77,10 @@ View Predictions:
 Use the web interface to view the current weather data and upcoming heat wave predictions.
 Project Structure
 plaintext
-Copy code
-├── app.py                   # Main application file
-├── templates/               # HTML templates for the web interface
-├── static/                  # Static files (CSS, JS, images)
-├── models/                  # Machine learning models and scripts
-├── data/                    # Data collection and processing scripts
-├── utils/                   # Utility functions
-├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation
+
+![WhatsApp Image 2024-11-22 at 00 03 36_a8f20d55](https://github.com/user-attachments/assets/e07d7c01-e88f-40cb-a8d2-8f3ee058f699)
+
+
 Contributing
 Contributions are welcome! Please create a pull request with your changes.
 
@@ -93,4 +88,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-For questions or feedback, please reach out to [your email] or open an issue in the GitHub repository.
+For questions or feedback, please reach out to [ashutoshjangam2k@gmail.com] or open an issue in the GitHub repository.
