@@ -68,7 +68,7 @@ bash
 Copy code
 git push heroku main
 Usage
-Register a user:
+model: "E:\internship\heat_wave_model.pkl"
 
 Access the web interface or use the provided API endpoint to register a user's phone number.
 Users will start receiving SMS alerts when a heat wave is predicted.
